@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://sowravhasan.github.io/portfolio/sitemap.xml
+Sitemap: https://sowrav-hasan.github.io/sitemap.xml
 
 # Allow crawling of important pages
 Allow: /index.html

@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 - **Netlify:** [https://sowrav-portfolio.netlify.app/](https://sowrav-portfolio.netlify.app/)
-- **GitHub Pages:** [https://sowravhasan.github.io/portfolio/](https://sowravhasan.github.io/portfolio/)
+- **GitHub Pages:** [https://sowrav-hasan.github.io/](https://sowrav-hasan.github.io/)
 - **Vercel:** [https://sowravhasan.vercel.app/](https://sowravhasan.vercel.app/)
 
 ## 👨‍💻 About
