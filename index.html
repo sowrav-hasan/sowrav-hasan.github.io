@@ -99,11 +99,36 @@
           "hasOccupation": {
             "@type": "Occupation",
             "name": "Web Developer",
+            "description": "Professional web developer specializing in responsive design, full-stack development, and WordPress solutions with expertise in modern web technologies.",
+            "estimatedSalary": {
+              "@type": "MonetaryAmountDistribution",
+              "name": "base",
+              "currency": "USD",
+              "duration": "P1H",
+              "minValue": 10,
+              "maxValue": 30,
+              "median": 20
+            },
             "occupationLocation": {
               "@type": "Country",
               "name": "Bangladesh"
             },
-            "skills": "HTML5, CSS3, JavaScript, React.js, PHP, Laravel, WordPress, Responsive Design"
+            "skills": [
+              "HTML5",
+              "CSS3", 
+              "JavaScript",
+              "React.js",
+              "PHP",
+              "Laravel",
+              "WordPress",
+              "Responsive Design",
+              "Full-Stack Development",
+              "E-commerce Development"
+            ],
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": "https://sowrav-hasan.github.io/"
+            }
           }
         },
         {
@@ -122,14 +147,37 @@
           }
         },
         {
-          "@type": "ProfessionalService",
-          "@id": "https://sowrav-hasan.github.io/#service",
-          "name": "Web Development Services",
+          "@type": "LocalBusiness",
+          "@id": "https://sowrav-hasan.github.io/#business",
+          "name": "Sowrav Hasan Web Development Services",
+          "alternateName": "Sowrav Hasan Portfolio",
           "description": "Professional web development and WordPress services including responsive design, full-stack development, and custom solutions.",
-          "provider": {
+          "founder": {
             "@id": "https://sowrav-hasan.github.io/#person"
           },
-          "areaServed": "Worldwide",
+          "employee": {
+            "@id": "https://sowrav-hasan.github.io/#person"
+          },
+          "url": "https://sowrav-hasan.github.io/",
+          "email": "sowravhasan101@gmail.com",
+          "priceRange": "$10-$30",
+          "currenciesAccepted": "USD",
+          "paymentAccepted": "Cash, Credit Card, PayPal, Bank Transfer",
+          "areaServed": {
+            "@type": "Place",
+            "name": "Worldwide"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "BD",
+            "addressRegion": "Bangladesh"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/in/sowrav-hasan/",
+            "https://github.com/sowravhasan",
+            "https://www.facebook.com/sowravhasan0/",
+            "https://www.fiverr.com/sowrav_hasan"
+          ],
           "hasOfferCatalog": {
             "@type": "OfferCatalog",
             "name": "Web Development Services",
@@ -139,7 +187,10 @@
                 "itemOffered": {
                   "@type": "Service",
                   "name": "Responsive Web Design",
-                  "description": "Mobile-first responsive website design and development"
+                  "description": "Mobile-first responsive website design and development",
+                  "provider": {
+                    "@id": "https://sowrav-hasan.github.io/#person"
+                  }
                 }
               },
               {
@@ -147,7 +198,10 @@
                 "itemOffered": {
                   "@type": "Service",
                   "name": "WordPress Development",
-                  "description": "Custom WordPress theme development and customization"
+                  "description": "Custom WordPress theme development and customization",
+                  "provider": {
+                    "@id": "https://sowrav-hasan.github.io/#person"
+                  }
                 }
               },
               {
@@ -155,7 +209,10 @@
                 "itemOffered": {
                   "@type": "Service", 
                   "name": "Full-Stack Development",
-                  "description": "Complete web application development with modern technologies"
+                  "description": "Complete web application development with modern technologies",
+                  "provider": {
+                    "@id": "https://sowrav-hasan.github.io/#person"
+                  }
                 }
               }
             ]
