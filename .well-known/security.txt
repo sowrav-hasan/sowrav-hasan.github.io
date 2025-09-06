@@ -1,0 +1,29 @@
+Contact: mailto:sowravhasan101@gmail.com
+Contact: https://sowrav-hasan.github.io/#contact
+Expires: 2025-12-31T23:59:59.000Z
+Encryption: https://keybase.io/sowravhasan
+Preferred-Languages: en, bn
+Canonical: https://sowrav-hasan.github.io/.well-known/security.txt
+Policy: https://sowrav-hasan.github.io/security-policy.html
+Acknowledgments: https://sowrav-hasan.github.io/security-acknowledgments.html
+
+# Security Information
+# This is a professional portfolio website
+# Owner: Sowrav Hasan - Web Developer
+# Website: https://sowrav-hasan.github.io
+# Email: sowravhasan101@gmail.com
+
+# Reporting Guidelines
+# Please report any security vulnerabilities responsibly
+# Include detailed information about the issue
+# Allow reasonable time for resolution before public disclosure
+
+# Scope
+# This security.txt applies to:
+# - https://sowrav-hasan.github.io
+# - All subdomains and related services
+
+# Out of Scope
+# - Social engineering attempts
+# - Physical security issues
+# - Third-party services and integrations

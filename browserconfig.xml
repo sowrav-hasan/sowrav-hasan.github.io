@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square70x70logo src="images/favicon.ico"/>
+            <square150x150logo src="images/favicon.ico"/>
+            <square310x310logo src="images/logo.svg"/>
+            <TileColor>#667eea</TileColor>
+        </tile>
+        <notification>
+            <polling-uri src="https://sowrav-hasan.github.io/notifications/rss"/>
+            <frequency>30</frequency>
+            <cycle>1</cycle>
+        </notification>
+    </msapplication>
+</browserconfig>

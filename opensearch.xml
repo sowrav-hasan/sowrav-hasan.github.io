@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+    xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+    <ShortName>Sowrav Hasan Portfolio</ShortName>
+    <Description>Search Sowrav Hasan's web development portfolio, projects, and services</Description>
+    <Tags>web developer wordpress react php laravel portfolio bangladesh</Tags>
+    <Contact>sowravhasan101@gmail.com</Contact>
+    <Url type="text/html" method="get" template="https://sowrav-hasan.github.io/?s={searchTerms}"/>
+    <Url type="application/rss+xml" template="https://sowrav-hasan.github.io/rss.xml"/>
+    <Language>en-us</Language>
+    <InputEncoding>UTF-8</InputEncoding>
+    <OutputEncoding>UTF-8</OutputEncoding>
+    <Image height="16" width="16" type="image/x-icon">https://sowrav-hasan.github.io/images/favicon.ico</Image>
+    <Image height="64" width="64" type="image/png">https://sowrav-hasan.github.io/images/logo.svg</Image>
+    <Developer>Sowrav Hasan</Developer>
+    <Attribution>
+    Search data provided by Sowrav Hasan - Professional Web Developer Portfolio
+    </Attribution>
+    <SyndicationRight>open</SyndicationRight>
+    <AdultContent>false</AdultContent>
+</OpenSearchDescription>

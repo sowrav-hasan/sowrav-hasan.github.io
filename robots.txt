@@ -1,14 +1,38 @@
 User-agent: *
 Allow: /
 
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Disallow sensitive files
+Disallow: /.github/
+Disallow: /sw.js
+Disallow: /*.json$
+Disallow: /README.md
+
 # Sitemap location
 Sitemap: https://sowrav-hasan.github.io/sitemap.xml
 
-# Allow crawling of important pages
-Allow: /index.html
-Allow: /css/
-Allow: /js/
-Allow: /images/
+# RSS Feed
+Sitemap: https://sowrav-hasan.github.io/rss.xml
 
-# Crawl delay (optional)
+# Host information
+Host: https://sowrav-hasan.github.io
+
+# Crawl-delay for polite crawling
 Crawl-delay: 1
+
+# Additional information
+# Website: Professional Web Developer Portfolio
+# Owner: Sowrav Hasan
+# Contact: sowravhasan101@gmail.com

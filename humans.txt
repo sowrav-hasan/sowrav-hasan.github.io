@@ -1,0 +1,42 @@
+/* TEAM */
+Developer: Sowrav Hasan
+Contact: sowravhasan101@gmail.com
+Twitter: @sowravhasan
+Location: Bangladesh
+Website: https://sowrav-hasan.github.io
+
+/* THANKS */
+Libraries: Bootstrap, GSAP, jQuery, Font Awesome
+Inspiration: Modern web development practices
+Community: Web development community
+
+/* SITE */
+Last update: 2024/09/06
+Language: English
+Doctype: HTML5
+IDE: VS Code
+Standards: HTML5, CSS3, ES6+, Responsive Design
+Components: Bootstrap 5, GSAP Animations, Font Awesome Icons
+Optimization: SEO Optimized, Performance Optimized, Accessibility Enhanced
+
+/* SKILLS */
+Frontend: HTML5, CSS3, JavaScript (ES6+), React.js
+Backend: PHP, Laravel, Node.js
+CMS: WordPress, Custom Theme Development
+Database: MySQL, MongoDB
+Tools: Git, VS Code, Figma, Photoshop
+Specialization: Responsive Design, Performance Optimization, SEO
+
+/* CONTACT */
+Email: sowravhasan101@gmail.com
+LinkedIn: https://www.linkedin.com/in/sowrav-hasan/
+GitHub: https://github.com/sowravhasan
+Portfolio: https://sowrav-hasan.github.io
+Fiverr: https://www.fiverr.com/sowrav_hasan
+
+/* PROJECTS */
+Completed: 100+
+Countries Served: 30+
+Experience: 3+ Years
+Satisfaction Rate: 100%
+Technologies: HTML5, CSS3, JavaScript, React.js, PHP, Laravel, WordPress
